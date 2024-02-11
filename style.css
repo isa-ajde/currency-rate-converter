@@ -1,0 +1,9 @@
+.container {
+  /* background-color: lightgrey; */
+  border-radius: 19px;
+  background-color: rgb(1, 23, 37);
+}
+
+#headerTitle {
+  font-family: monospace;
+}
